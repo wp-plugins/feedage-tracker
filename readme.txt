@@ -20,8 +20,12 @@ The plugin also will automatically submit your RSS Feed to Feedage.com directory
 This section describes how to install the plugin and get it working.
 
 1. Upload `feedage-tracker.php` to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Configure the plugin by visiting the Feedage Tracker submenu under plugins.
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Configure the plugin by visiting the Feedage Tracker submenu under plugins.
+
+== Screenshots ==
+
+1. Screen shot 1 shows the Feedage Tracker configuration page. From this page you can select which Feed readers you want displayed on your blog.
 
 == Frequently Asked Questions ==
 
