@@ -1,10 +1,10 @@
 === Feedage Tracker ===
 Contributors: Mark Savoca
 Donate link: http://www.feedage.com/
-Tags: Feedage, SEO, RSS, FEED, subscribe
+Tags: feedage, seo, rss, feed, subscribe, tracker
 Requires at least: 2.0.2
-Tested up to: 2.6.2
-Stable tag: 1.0.2
+Tested up to: 2.6.5
+Stable tag: 1.0.3
 
 == Description ==
 

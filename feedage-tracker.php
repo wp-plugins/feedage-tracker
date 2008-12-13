@@ -34,7 +34,6 @@ $readers = array(
 // Create the Feedage.com tracker submenu
 function feedage_admin_menu() {
 	$hook = add_submenu_page('plugins.php', __('Feedage Tracker Plugin'), __('Feedage Tracker'), 'manage_options', 'ftconfig', 'feedage_admin_page');
-	add_action("load-$hook", 'feedage_admin_load');
 }
 
 
