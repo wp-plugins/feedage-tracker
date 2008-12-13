@@ -4,7 +4,7 @@ Plugin Name: Feedage Tracker
 Plugin URI: http://www.feedage.com/wordpress/tracker.php
 Description: This plugin will add subscription buttons to allow users to subscribe to your RSS Feed and allows you to track your rss feed usage on Feedage.com
 Author: Mark Savoca
-Version: 1.0.2
+Version: 1.0.3
 Author URI: http://www.feedage.com
 */
 
