@@ -8,12 +8,9 @@ Stable tag: 1.0.3
 
 == Description ==
 
-Feedage Tracker will add a set of subscription buttons to either the footer or sidebar of the blog. The subscription buttons link to Feedage.com which allows you to use Feedage.com to track the number of users that subscribe to your RSS Feed.
+Feedage Tracker plugin will automatically submit your RSS Feeds to the Feedage.com RSS directory and adds a set of subscription buttons to either the footer or sidebar of the blog. Once submitted to feedage, you will be able to track how often readers subscribe to your RSS feed. 
 
-The plugin requires that you create an account on feedage.com and enter your username. This is how the feeds are tracked on feedage.com.
-
-The plugin also will automatically submit your RSS Feed to Feedage.com directory.
-
+Submitting your RSS feed to Feedage.com will provide additional exposure for your blog and backlinks to your blog, helping to improve your SEO.
 
 == Installation ==
 
